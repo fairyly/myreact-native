@@ -3,8 +3,8 @@ react-native
 
 ## 搭建开发环境
 
-**Node NPM 
-  安装完node后建议设置npm镜像以加速后面的过程（或使用科学上网工具）。
+**Node NPM **  
+  安装完node后建议设置npm镜像以加速后面的过程（或使用科学上网工具）。
   注意：不要使用cnpm！cnpm安装的模块路径比较奇怪，packager不能正常识别！
 
   npm config set registry https://registry.npm.taobao.org --global
