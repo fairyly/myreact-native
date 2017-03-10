@@ -16,7 +16,7 @@ react-native
    npm install -g yarn react-native-cli
   
 **安装Android Studio**  
-
+ * 需要安装jdk
  * 可以到 [谷歌开发者平台](https://developers.google.cn)下载安装
  
 **测试安装**
